@@ -1,5 +1,7 @@
-# 💫 About Me:
-I'm currently learning python
+# 💫 Sobre mim:
+Atualmente estudando Python e Tableau para análise de dados.
+Cursando pós graduação em Inteligência artificial e aprendizado de máquina pela PUC Minas.
+
 
 
 # 💻 Tech Stack:

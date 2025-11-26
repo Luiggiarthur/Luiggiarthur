@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Cursando pós graduação em Inteligência artificial e Aprendizado de Máquina pela PUC Minas. Atualmente focado nos estudos de Python e SQL para ciência de dados.
+Atualmente focado nos estudos de Python e SQL para ciência de dados e IA.
 
 
 
